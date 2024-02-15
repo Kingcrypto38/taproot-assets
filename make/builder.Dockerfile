@@ -1,4 +1,4 @@
-FROM golang:1.21.4-bookworm
+FROM golang:1.21.7-bookworm
 
 MAINTAINER Olaoluwa Osuntokun <laolu@lightning.engineering>
 
